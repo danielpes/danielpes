@@ -33,23 +33,13 @@
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   />
 
-  <h3>Online Stats</h3>
-
-  <a href="https://stackoverflow.com/users/3864822/daniel-de-paula">
-    <img
-      src="https://stackoverflow.com/users/flair/3864822.png?theme=dark"
-      width="208"
-      height="58"
-      alt="profile for Daniel de Paula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-      title="profile for Daniel de Paula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-    />
+  <h3>Stats</h3>
 
   <img
-    width="480"
+    width="420"
     alt="Anurag's GitHub stats"
     src="https://github-readme-stats.vercel.app/api?username=danielpes&show_icons=true&count_private=true&theme=nord&hide=contribs"
   />
-  </a>
 
   <h3>Contact me</h3>
 
