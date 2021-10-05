@@ -57,7 +57,7 @@
   <h4>Stats</h4>
 
   <img
-    height="160"
+    height="150"
     alt="Anurag's GitHub stats"
     src="https://github-readme-stats.vercel.app/api?username=danielpes&show_icons=true&count_private=true&theme=nord&hide=contribs&custom_title=GitHub%20Stats&include_all_commits=true"
   />
