@@ -1,5 +1,12 @@
 <div align="center">
   <h3>Hi, I'm Daniel 👋</h3>
+  
+  <a href="https://keybase.io/danielpes">
+    <img
+      alt="Javascript badge"
+      src="https://img.shields.io/keybase/pgp/danielpes?style=for-the-badge"
+    />
+  </>
 
   <hr />
 
