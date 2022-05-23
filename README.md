@@ -6,7 +6,7 @@
       alt="Javascript badge"
       src="https://img.shields.io/keybase/pgp/danielpes?style=for-the-badge"
     />
-  </>
+  </a>
 
   <hr />
 
