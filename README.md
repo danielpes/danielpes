@@ -10,7 +10,7 @@
 
   <hr />
 
-  <i>A versatile and product-driven full-stack engineer, currently located in France.</i>
+  <i>A versatile and product-driven full-stack engineer, located in Amsterdam.</i>
 
   <hr />
 
